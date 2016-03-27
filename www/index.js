@@ -26,7 +26,7 @@ axe.set('views', 'src/public/views');
 axe.set('controller path', 'src/server/controller');
 
 axe.set('babel options', {log: true});
-axe.set('compile', false);
+axe.set('compile', true);
 axe.set('source Path', 'src/server');
 axe.set('output Path', 'output');
 axe.compile();
