@@ -19,7 +19,7 @@
     }
   ],
   "dependencies": {
-    "axe": "file:../axe",
+    "axejs": "^0.1.0",
     "babel-runtime": "6.x.x",
     "node-crontab": "0.0.8",
     "superagent": "1.3.0"
